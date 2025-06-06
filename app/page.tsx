@@ -140,7 +140,7 @@ export default function WorkoutPlanner() {
                     datasets: [{
                         label: 'Exercises per Equipment',
                         data: Object.values(equipmentCounts),
-                        backgroundColor: 'rgba(20, 184, 166, 0.6)',
+                        backgroundColor: 'rgba(20, 185, 166, 0.6)',
                         borderColor: 'rgba(13, 148, 136, 1)',
                         borderWidth: 1
                     }]
